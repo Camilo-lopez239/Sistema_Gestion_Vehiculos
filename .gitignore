@@ -1,0 +1,4 @@
+venv/
+_pycahce_/
+*.pyc
+.thunder-client/
